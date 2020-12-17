@@ -38,7 +38,7 @@ export const COPYRIGHT_HOLDER = process.env.NEXT_PUBLIC_COPYRIGHT_HOLDER;
 export const CODE_OF_CONDUCT =
   'https://www.notion.so/vercel/Code-of-Conduct-Example-7ddd8d0e9c354bb597a0faed87310a78';
 export const REPO = 'https://github.com/injoon5/ij5-event';
-export const SAMPLE_TICKET_NUMBER = 0225;
+export const SAMPLE_TICKET_NUMBER = 1234;
 export const NAVIGATION = [
   {
     name: 'Stage A',
