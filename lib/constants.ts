@@ -52,10 +52,6 @@ export const NAVIGATION = [
     name: 'Stage J',
     route: '/stage/j'
   },
-    {
-    name: 'Stage J',
-    route: '/stage/j'
-  },
   {
     name: 'Schedule',
     route: '/schedule'
