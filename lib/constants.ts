@@ -41,20 +41,16 @@ export const REPO = 'https://github.com/injoon5/ij5-event';
 export const SAMPLE_TICKET_NUMBER = 1234;
 export const NAVIGATION = [
   {
-    name: 'Stage A',
-    route: '/stage/a'
+    name: 'Stage O',
+    route: '/stage/o'
   },
   {
-    name: 'Stage C',
-    route: '/stage/c'
+    name: 'Stage I',
+    route: '/stage/i'
   },
   {
-    name: 'Stage M',
-    route: '/stage/m'
-  },
-  {
-    name: 'Stage E',
-    route: '/stage/e'
+    name: 'Stage J',
+    route: '/stage/j'
   },
   {
     name: 'Schedule',
